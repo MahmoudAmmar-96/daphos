@@ -3,6 +3,8 @@
 A ward manager's screen for reviewing a week of staffing demand forecasts and correcting
 any that look wrong, with the reasoning captured alongside each correction.
 
+<img width="1311" height="536" alt="image" src="https://github.com/user-attachments/assets/ca069fd2-c596-495a-a04c-d310d3370f02" />
+
 ## Setup
 
 Two services, no Docker: a FastAPI backend and a React/Vite frontend. Run both to use the
